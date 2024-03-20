@@ -1,3 +1,3 @@
 # smut
 
-Here I have all the scriots that I am writting for the P-ONE muon tracker SMUT project 
+Here I have all the scripts that I am writting for the P-ONE muon tracker project 
